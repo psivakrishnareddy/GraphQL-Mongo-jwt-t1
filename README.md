@@ -1,17 +1,21 @@
-# GraphQL + React Event Booking API
-This code belongs to a tutorial series: [https://github.com/academind/yt-graphql-react-event-booking-api.git](https://github.com/academind/yt-graphql-react-event-booking-api.git)
+# GraphQL + MONGODB + JWT BASIC SERVER
 
-Learn how to build a GraphQL API (with Node.js) and a React.js frontend from scratch in this series.
+This Code is a Simple Graphql server using epress graphl with mongodb and jwt authentication/authorization.
+
+It contains template for Auth Middleware, Mongo models, graphl schema and resolvers with nodemon.json as ENV
 
 # Usage
-Choose the right branch in this repository to get the code for the different parts of the series.
+
+Its a Template for Quick Start
 
 Install all dependencies
+
 ```sh
 npm install
 ```
 
 Run the server
+
 ```sh
 npm start
 ```
